@@ -13,5 +13,5 @@ Arcuno Network is a Minecraft Practice server that offers much more than just pr
 We’re committed to providing players with a fun and competitive environment, packed with dynamic features and engaging gameplay.
 
 For more information about the network, visit our official site:  
-[Arcuno Site](https://arcuno.net)
-Server IP: arcuno.net
+- [Arcuno Site](https://arcuno.net)
+- Server IP: arcuno.net
