@@ -4,8 +4,9 @@
 
 Welcome to **Arcuno Network**!
 
-Arcuno Network is a Minecraft Practice server that offers much more than just practice. It features a variety of exciting minigames, including:
+Arcuno Network is a Minecraft Network for versions 1.7+ that offers many exclusive features. It features a variety of exciting minigames, including:
 
+- **Practice**
 - **BedWars**
 - **Mini Walls**
 - **And More!**
